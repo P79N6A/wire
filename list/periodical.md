@@ -1,4 +1,4 @@
-#Periodical
+# periodical
 
 1. 
 ![](../res/periodical/periodical10.png)
@@ -12,4 +12,4 @@
 
 3. period
 
-![](../res/periodical/period.mp4)
+![period!](../res/periodical/period.mp4)
