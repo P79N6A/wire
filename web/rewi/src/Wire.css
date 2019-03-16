@@ -1,0 +1,45 @@
+.Wire {
+  text-align: center;
+}
+
+.Wire-logo {
+  animation: Wire-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Wire-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Wire-link {
+  color: #61dafb;
+}
+
+.Wire-input {
+  font-size: calc(10px + 2vmin); /*todo inherit*/
+  margin-right: 2vmin;
+}
+
+.Wire-button {
+  background-color:#00000000;
+  color: #61dafb;
+  border: 0px;
+  font-size: calc(10px + 2vmin); /*todo inherit*/
+}
+
+@keyframes Wire-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
